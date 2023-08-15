@@ -3,17 +3,16 @@
 ## How to check your errors
 ## Labs
 <details><summary>CS105</a></summary>
-  [Lab1a](https://classroom.github.com/a/ZrhsKfxR)<br />
-  [Lab2a](https://classroom.github.com/a/syiGpEKh)<br />
-  [Lab2b](https://classroom.github.com/a/E6Xa_ThI)<br />
-  [Lab3a](https://classroom.github.com/a/cAkdw9iB)<br />
-  [Lab3c](https://classroom.github.com/a/ekf204gJ)<br />
-  [Lab5b](https://classroom.github.com/a/mn9Pwraf)<br />
-  [Lab5c](https://classroom.github.com/a/MgTKd_JY)<br />
-  [Lab6a](https://classroom.github.com/a/Ps2kEhXB)<br />
-  [Lab6b](https://classroom.github.com/a/wBqDVqtY)<br />
-  [Lab6c](https://classroom.github.com/a/bcwPc6_1)<br />
-  [Lab6d](https://classroom.github.com/a/h51ZLWVl)<br />
-  [Lab7a](https://classroom.github.com/a/4fxJqKTd)<br />
-
+<a href="https://classroom.github.com/a/ZrhsKfxR">Lab1a</a><br>
+<a href="https://classroom.github.com/a/syiGpEKh">Lab2a</a><br>
+<a href="https://classroom.github.com/a/E6Xa_ThI">Lab2b</a><br>
+<a href="https://classroom.github.com/a/cAkdw9iB">Lab3a</a><br>
+<a href="https://classroom.github.com/a/ekf204gJ">Lab3c</a><br>
+<a href="https://classroom.github.com/a/mn9Pwraf">Lab5b</a><br>
+<a href="https://classroom.github.com/a/MgTKd_JY">Lab5c</a><br>
+<a href="https://classroom.github.com/a/Ps2kEhXB">Lab6a</a><br>
+<a href="https://classroom.github.com/a/wBqDVqtY">Lab6b</a><br>
+<a href="https://classroom.github.com/a/bcwPc6_1">Lab6c</a><br>
+<a href="https://classroom.github.com/a/h51ZLWVl">Lab6d</a><br>
+<a href="https://classroom.github.com/a/4fxJqKTd">Lab7a</a><br>
 </details>
